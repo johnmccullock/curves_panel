@@ -5,7 +5,7 @@
  
  You can also specify an image to use as the component's background.  In the screenshots below, I used an image of a histogram as background.
  
- ![Alt text](https://github.com/johnmccullock/curves_panel/screenshot1.jpg?raw=true)
+ ![Alt text](https://github.com/johnmccullock/curves_panel/blob/main/screenshot1.jpg?raw=true)
  
  Thanks to Ivan Kutskir - http://blog.ivank.net/interpolation-with-cubic-splines.html for his work on achieving the perfect spline control behavior.
  
