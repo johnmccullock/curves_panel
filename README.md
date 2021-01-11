@@ -1,5 +1,5 @@
 # curves_panel
- Color curves graph component similar to the color curve components found in Photoshop, PaintShop Pro and other graphic image editors.  The basic purpose of a curves component is map values from the x-axis (input) of the graph to the y-axis (output).  By adjusting the shape of the curve, you remap values from the x-axis to different values on the y-axis.
+ Color curves graph component similar to the color curve components found in Photoshop, PaintShop Pro and other graphic image editors.  The basic purpose of a curves component is to map values from the x-axis (input) of the graph to the y-axis (output).  By adjusting the shape of the curve, you remap values from the x-axis to different values on the y-axis.
  
  This component is based on the javax.swing.JPanel, and can easily be added to and JFrame or JDialog.
  
